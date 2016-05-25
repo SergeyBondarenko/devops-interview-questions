@@ -35,6 +35,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 
 
 ####[[⬆]](#toc) <a name='general'>General Questions:</a>
+MAX 3 points per question.
 
 * What did you learn yesterday/this week?
 * Talk about your preferred development/administration environment. (OS, Editor, Browsers, Tools etc.)
@@ -52,6 +53,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 
 
 ####[[⬆]](#toc) <a name='simple'>Simple Linux Questions:</a>
+MAX 3 points per question.
 
 * What is the name and the UID of the administrator user?
 * How to list all files, including hidden ones, in a directory?
@@ -82,6 +84,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 
 
 ####[[⬆]](#toc) <a name='medium'>Medium Linux Questions:</a>
+MAX 4 points per question.
 
 * What do the following commands do and how would you use them?
  * ```tee```
@@ -142,6 +145,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What is a tarpipe (or, how would you go about copying everything, including hardlinks and special files, from one server to another)?
 
 ####[[⬆]](#toc) <a name='hard'>Hard Linux Questions:</a>
+MAX 5 points per question.
 
 * What is a tunnel and how you can bypass a http proxy?
 * What is the difference between IDS and IPS?
@@ -165,11 +169,13 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 
 
 ####[[⬆]](#toc) <a name='expert'>Expert Linux Questions:</a>
+MAX 7 points per question.
 
 * A running process gets ```EAGAIN: Resource temporarily unavailable``` on reading a socket. How can you close this bad socket/file descriptor without killing the process?
 
 
 ####[[⬆]](#toc) <a name='network'>Networking Questions:</a>
+MAX 3 points per question.
 
 * What is localhost and why would ```ping localhost``` fail?
 * What is the similarity between "ping" & "traceroute" ? How is traceroute able to find the hops.
@@ -193,6 +199,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 
 
 ####[[⬆]](#toc) <a name='mysql'>MySQL questions:</a>
+MAX 5 points per question.
 
 * How do you create a user?
 * How do you provide privileges to a user?
@@ -204,6 +211,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 
 
 ####[[⬆]](#toc) <a name='devop'>DevOps Questions:</a>
+MAX 5 points per question.
 
 * Can you describe your workflow when you create a script?
 * What is GIT?
@@ -223,6 +231,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What are the important aspects of a system of continuous integration and deployment?
 
 ####[[⬆]](#toc) <a name='fun'>Fun Questions:</a>
+MAX 5 points per question.
 
 * A careless sysadmin executes the following command: ```chmod 444 /bin/chmod ``` - what do you do to fix this?
 * I've lost my root password, what can I do?
@@ -235,6 +244,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 
 
 ####[[⬆]](#toc) <a name='demo'>Demo Time:</a>
+MAX 5 points per question.
 
 * Unpack test.tar.gz without man pages or google.
 * Remove all "*.pyc" files from testdir recursively?
