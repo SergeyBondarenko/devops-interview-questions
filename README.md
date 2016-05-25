@@ -126,12 +126,12 @@ MAX 4 points per question.
 * You run a bash script and you want to see its output on your terminal and save it to a file at the same time. How could you do it? (tee)
 * Explain what echo "1" > /proc/sys/net/ipv4/ip_forward does.
 * Describe briefly the steps you need to take in order to create and install a valid certificate for the site https://foo.example.com. (a2enmod ssl, openssl, default-ssl.conf, a2ensite)
-* Can you have several HTTPS virtual hosts sharing the same IP? (SNI)
+* Can you have several HTTPS virtual hosts sharing the same IP? (SNI, wildcard cert)
 * What is a wildcard certificate?
-* Which Linux file types do you know?
-* What is the difference between a process and a thread? And parent and child processes after a fork system call?
+* Which Linux file types do you know? (f, d, bf, cf, pf, sl, sf)
+* What is the difference between a process and a thread? And parent and child processes after a fork system call? (ps -eLf)
 * What is the difference between exec and fork?
-* What is "nohup" used for?
+* What is "nohup" used for? (HUP)
 * What is the difference between these two commands?
  * ```myvar=hello```
  * ```export myvar=hello```
